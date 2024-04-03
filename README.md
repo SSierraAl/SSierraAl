@@ -1,5 +1,5 @@
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20there,%20I'm%20Sebas👋|%20%20ML%20%20Software%20Developer%20⚡|%20PhD%20Student%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=|%20Hi%20there,%20I'm%20Sebas👋|%20PhD%20Student%20|%20👨‍💻%20%20ML%20Python%20Developer%20|&width=1000&height=100)](https://github.com/Akshay090/svg-banners)
 
 <!--
 **SSierraAl/SSierraAl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
