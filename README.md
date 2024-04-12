@@ -6,5 +6,3 @@
   🌱 Electronic Engineer with a master's focused on deploying ML in embedded systems, I've transitioned from developing predictive ML software for oil and gas industries to the deploy of ML models and signal procesing techniques for optoelectronics and embedded systems.
 
 
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SSierraAl?cardType=github&theme=nord&preferLogin=false)](https://git.io/awesome-stats-card)
