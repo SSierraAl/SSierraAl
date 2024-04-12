@@ -5,3 +5,17 @@
 
   🌱 Electronic Engineer with a master's focused on deploying ML in embedded systems, I've transitioned from developing predictive ML software for oil and gas industries to the deploy of ML models and signal procesing techniques for optoelectronics and embedded systems.
 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+      </a>
+    </td>
+    <td>
+      <a href="https://git.io/awesome-stats-card">
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/SSierraAl?cardType=github&theme=nord&preferLogin=false" />
+      </a>
+    </td>
+  </tr>
+</table>
